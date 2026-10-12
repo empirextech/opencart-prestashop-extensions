@@ -1,0 +1,25 @@
+{
+    "name": "empirex/opencart-prestashop-extensions",
+    "description": "OpenCart 3 shipping/identity modules and a PrestaShop 8 catalog feed, with a shared testable PHP core.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "EmpireX\\MarketplaceKit\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "EmpireX\\MarketplaceKit\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --colors=always"
+    }
+}
