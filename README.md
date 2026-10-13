@@ -5,7 +5,7 @@ Two original platform modules that share a small PHP core:
 1. **OpenCart 3** — city/postcode shipping method plus phone-or-email login identity.
 2. **PrestaShop 8** — incremental product/combination XML feed for comparison engines.
 
-This repository is a demonstration kit. It is not a client store, not an OCMOD dump, and not a fork of a commercial SuperCheckout or marketplace connector. The problems it solves — city courier rates, blocked postcodes, phone login, combination flattening, tokenised feeds — come from real platform work, reimplemented as independent modules.
+Built by **SC EMPIRE GLOBAL SOLUTIONS SRL** (EMPIREX Tech). This repository is a demonstration kit. It is not a client store, not an OCMOD dump, and not a fork of a commercial SuperCheckout or marketplace connector. The problems it solves — city courier rates, blocked postcodes, phone login, combination flattening, tokenised feeds — come from real platform work, reimplemented as independent modules.
 
 ## Problem
 
@@ -79,4 +79,4 @@ No OpenCart or PrestaShop bootstrap is required.
 
 ## License
 
-MIT for this original demonstration code. OpenCart and PrestaShop remain under their own licenses.
+MIT for this original demonstration code. OpenCart and PrestaShop remain under their own licenses. EMPIREX Tech / SC EMPIRE GLOBAL SOLUTIONS SRL.
